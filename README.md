@@ -16,7 +16,7 @@ This repository contains the source code for my personal portfolio website — b
 
 ## 📫 Contact
 *Email:* dineshyadav41103@gmail.com  
-*LinkedIn:* [linkedin.com/in/dinesh-karri](https://www.linkedin.com/in/dinesh-karri)  
+*LinkedIn:* www.linkedin.com/in/karri-dinesh-a46505351 
 
 ---
 
