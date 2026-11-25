@@ -1,23 +1,88 @@
-# Dineshyadav411.github.io
-# 💼 Personal Portfolio Website
+# Hi, I'm Karri Dinesh 👋
 
-This repository contains the source code for my personal portfolio website — built to showcase my projects, skills, and experience as a *Computer Science student and Web Developer*.
+Computer Science graduate building **AI-powered applications** with Python, FastAPI, RAG, and LLM APIs.
 
-## 🚀 Features
-- Responsive portfolio design
-- Projects showcase with live links
-- Contact form
-- Smooth animations and modern UI
+## 🔧 What I Work With
 
-## 🧠 Tech Stack
-- HTML, CSS, JavaScript  
-- React.js  
-- Node.js (for backend integration)  
+**Languages:** Python, SQL  
+**AI / GenAI:** RAG, LLM APIs, Claude Code, Prompt Engineering, FAISS, Sentence Transformers, Ollama  
+**Frameworks:** FastAPI, NumPy, Pandas, Playwright, PyMuPDF  
+**Cloud:** Microsoft Azure (VMs, App Service, Blob Storage, Azure SQL)  
+**Tools:** Git, GitHub, VS Code, Cursor, Jupyter
 
-## 📫 Contact
-*Email:* dineshyadav41103@gmail.com  
-*LinkedIn:* www.linkedin.com/in/karri-dinesh-a46505351 
+## 🚀 Featured Projects
 
----
+### [AskMyDocs — RAG Knowledge Assistant](link-to-repo)
+Local RAG document assistant for PDF ingestion, semantic retrieval, and source-grounded answers.
+- FastAPI + FAISS + Sentence Transformers + Ollama
+- Document chunking, 384-dim embeddings, top-K search, page-level citations
+- Retrieval evaluation: Hit@K, citation accuracy, groundedness, latency
 
-⭐ Feel free to check it out at *[https://dineshyadav411.github.io](https://dineshyadav411.github.io)* once deployed!
+### [AI Job-Application Automation Agent](link-to-repo)
+Claude Agent SDK + Playwright workflow that authenticates to job portals, matches JDs to a candidate profile, and tracks applications in Google Sheets.
+
+### [Recruiter Follow-Up & Email Automation Agent](link-to-repo)
+Claude-powered Gmail workflow that classifies recruiter emails, drafts replies, and schedules follow-up reminders.
+
+## 📫 Reach Me
+
+- Email: dineshyadav41103@gmail.com
+- LinkedIn: [Karri Dinesh](# Hi, I'm Karri Dinesh 👋
+
+Computer Science graduate building **AI-powered applications** with Python, FastAPI, RAG, and LLM APIs.
+
+## 🔧 What I Work With
+
+**Languages:** Python, SQL  
+**AI / GenAI:** RAG, LLM APIs, Claude Code, Prompt Engineering, FAISS, Sentence Transformers, Ollama  
+**Frameworks:** FastAPI, NumPy, Pandas, Playwright, PyMuPDF  
+**Cloud:** Microsoft Azure (VMs, App Service, Blob Storage, Azure SQL)  
+**Tools:** Git, GitHub, VS Code, Cursor, Jupyter
+
+## 🚀 Featured Projects
+
+### [AskMyDocs — RAG Knowledge Assistant](link-to-repo)
+Local RAG document assistant for PDF ingestion, semantic retrieval, and source-grounded answers.
+- FastAPI + FAISS + Sentence Transformers + Ollama
+- Document chunking, 384-dim embeddings, top-K search, page-level citations
+- Retrieval evaluation: Hit@K, citation accuracy, groundedness, latency
+
+### [AI Job-Application Automation Agent](link-to-repo)
+Claude Agent SDK + Playwright workflow that authenticates to job portals, matches JDs to a candidate profile, and tracks applications in Google Sheets.
+
+### [Recruiter Follow-Up & Email Automation Agent](link-to-repo)
+Claude-powered Gmail workflow that classifies recruiter emails, drafts replies, and schedules follow-up reminders.
+
+## 📫 Reach Me
+
+- Email: dineshyadav41103@gmail.com
+- LinkedIn: [Karri Dinesh](# Hi, I'm Karri Dinesh 👋
+
+Computer Science graduate building **AI-powered applications** with Python, FastAPI, RAG, and LLM APIs.
+
+## 🔧 What I Work With
+
+**Languages:** Python, SQL  
+**AI / GenAI:** RAG, LLM APIs, Claude Code, Prompt Engineering, FAISS, Sentence Transformers, Ollama  
+**Frameworks:** FastAPI, NumPy, Pandas, Playwright, PyMuPDF  
+**Cloud:** Microsoft Azure (VMs, App Service, Blob Storage, Azure SQL)  
+**Tools:** Git, GitHub, VS Code, Cursor, Jupyter
+
+## 🚀 Featured Projects
+
+### [AskMyDocs — RAG Knowledge Assistant](link-to-repo)
+Local RAG document assistant for PDF ingestion, semantic retrieval, and source-grounded answers.
+- FastAPI + FAISS + Sentence Transformers + Ollama
+- Document chunking, 384-dim embeddings, top-K search, page-level citations
+- Retrieval evaluation: Hit@K, citation accuracy, groundedness, latency
+
+### [AI Job-Application Automation Agent](link-to-repo)
+Claude Agent SDK + Playwright workflow that authenticates to job portals, matches JDs to a candidate profile, and tracks applications in Google Sheets.
+
+### [Recruiter Follow-Up & Email Automation Agent](link-to-repo)
+Claude-powered Gmail workflow that classifies recruiter emails, drafts replies, and schedules follow-up reminders.
+
+## 📫 Reach Me
+
+- Email: dineshyadav41103@gmail.com
+- LinkedIn: [Karri Dinesh](https://www.linkedin.com/in/dinesh-karri-a46505351)
